@@ -1,0 +1,17 @@
+:root {
+    --background-color: #000000;
+    --main-page-button-color-and-links: #ca9ce1;
+    --white-color: #ffffff;
+    --about-me-container-border: #460079;
+    --about-me-container: #6824B7;
+    --projects-container: #FF70A6;
+    --projects-container-border: #E4226B;
+    --last-page-grey: #616161;
+    --abt-me-button: #6824B7;
+    --abt-me-margin: #460079;
+}
+
+.text {
+    font-family: 'Vina Sans', sans-serif;
+}
+
