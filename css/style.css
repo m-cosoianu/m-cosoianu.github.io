@@ -13,5 +13,23 @@
 
 .text {
     font-family: 'Vina Sans', sans-serif;
+    margin-top: -80px;
+    margin-left: 200px;
+    font-size: 50px;
 }
 
+.mail {
+    color: var(--main-page-button-color-and-links);
+}
+
+.whatsapp {
+    color: var(--main-page-button-color-and-links);
+}
+
+.instagram {
+    color: var(--main-page-button-color-and-links);
+}
+
+.facebook {
+    color: var(--main-page-button-color-and-links);
+}
