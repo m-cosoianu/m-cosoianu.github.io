@@ -20,16 +20,41 @@
 
 .mail {
     color: var(--main-page-button-color-and-links);
+    margin-left: 1780px;
+    margin-top: -60px;
 }
 
 .whatsapp {
     color: var(--main-page-button-color-and-links);
+    margin-left: 1710px;
+    margin-top: -80px;
 }
 
 .instagram {
     color: var(--main-page-button-color-and-links);
+    margin-left: 1630px;
+    margin-top: -80px;
 }
 
 .facebook {
     color: var(--main-page-button-color-and-links);
+    margin-left: 1860px;
+    margin-top: -80px;
+}
+
+
+/* ?????? */
+.btn{
+    background-color: var(--main-page-button-color-and-links);
+    cursor: pointer;
+}
+
+.box{
+    margin-left: 450px;
+    padding: 180px;
+    background-image: linear-gradient(rgb(195, 121, 238), rgb(228, 164, 194));
+}
+
+.sidebar{
+    background-image: linear-gradient(#181818, #e7e7e7);
 }
